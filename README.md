@@ -21,8 +21,3 @@ L'obiettivo è creare un sito semplice:
 
 ## Tecnologia
 Utilizzerò inizialmente solo HTML e CSS, aiutandomi solo in alcuni casi con Bootstrap.
-
-# progetto-html-css
-# progetto-html-css
-# progetto-html-css
-progetto-html-css
